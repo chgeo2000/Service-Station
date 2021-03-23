@@ -17,4 +17,7 @@
   5. Removal of all transactions within a certain number of days.
   6. Warranty update for each car.
   7. Populate "car entity" with custom number of objects.
-  8. 
+  8. Undo operation (on creating and deleting) for all domain objects.
+  9. Exception Handling with predefined and user-defined exceptions
+  10. Domain-level objects validation
+  11. Export of all objects of a type to Excel using xlwt library. 
